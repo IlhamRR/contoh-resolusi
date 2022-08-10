@@ -3,9 +3,11 @@ CONTOH RENCANA KONTEN
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+   ^ Laravel
 - Interview
 - Vlogs
+- Python
